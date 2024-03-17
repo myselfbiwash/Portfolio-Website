@@ -4,7 +4,7 @@
         "id": "1",
         "src": "./img/product-chain-1.png",
         "title": "Front-End",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "description": ""
       },
       {
         "id": "2",
@@ -37,16 +37,18 @@
       {
         "id": "2",
         "src": "./img/placeholder-image-1.png",
-        "title": "App Dashboard",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-        "link": "View In Github"
+        "title": "Trivia Quiz App",
+        "description": "This is Trivia Quiz App where we can play quiz on different categories. It is built using React.js and Open Trivia DB API. It is a complete quiz app with different categories and difficulty levels.",
+        "link": "View In Github",
+        "githubLink":"https://github.com/myselfbiwash/Quiz-App"
       },
       {
         "id": "3",
         "src": "./img/placeholder-image-2.png",
-        "title": "Easy Rentn",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-        "link": "View In Github"
+        "title": "Multi Step Form",
+        "description": "This is Multi Step Form where we can fill the form in multiple steps. It is a multi-step form with validation where the admin can set up the Engineering subjects and the students can fill the form in multiple steps. It has simple UI with great understanding of data structure.",
+        "link": "View In Github",
+        "githubLink":"https://github.com/myselfbiwash/MultiStepForm-Dashboard"
       }
     ],
     "testimonial": [
