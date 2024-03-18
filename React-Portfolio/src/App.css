@@ -617,7 +617,7 @@ input[type="checkbox"] {
   }
 }
 
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 768px) {
 
   .btn-primary{
     position: relative;
@@ -721,7 +721,7 @@ input[type="checkbox"] {
   transition: all ease-in-out 0.2s;
 }
 
-@media screen and (max-width: 554px) {
+@media screen and (max-width: 768px) {
   .nav__hamburger {
     display: flex;
     z-index: 200;
