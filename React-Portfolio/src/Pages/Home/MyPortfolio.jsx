@@ -8,7 +8,7 @@ export default function MyPortfolio() {
           <p className="sub--title">Recent Projects</p>
           <h2 className="section--heading">My Portfolio</h2>
         </div>
-        <div>
+        <div >
         <a href="https://github.com/myselfbiwash" target="_blank" rel="noopener noreferrer">
 <button className="btn btn-github">
             <svg
