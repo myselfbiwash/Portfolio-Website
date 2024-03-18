@@ -82,7 +82,7 @@ function Footer() {
           <ul>
             <li>
               <a
-                href={import.meta.env.REACT_APP_FACEBOOK}
+                href={import.meta.env.VITE_APP_FACEBOOK}
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -103,7 +103,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href={import.meta.env.REACT_APP_INSTAGRAM}
+                href={import.meta.env.VITE_APP_INSTAGRAM}
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -126,7 +126,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href={import.meta.env.REACT_APP_TWITTER}
+                href={import.meta.env.VITE_APP_TWITTER}
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -147,7 +147,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href={import.meta.env.REACT_APP_LINKEDIN}
+                href={import.meta.env.VITE_APP_LINKEDIN}
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
