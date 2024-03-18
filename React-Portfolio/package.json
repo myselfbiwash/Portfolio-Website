@@ -5,7 +5,9 @@
   "scripts": {
     "dev": "vite",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "build": "vite build"
+
   },
   "dependencies": {
     "dotenv": "^16.4.5",
