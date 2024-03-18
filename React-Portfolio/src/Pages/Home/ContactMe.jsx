@@ -5,12 +5,13 @@ export default function ContactMe() {
           <p className="sub--title">Get In Touch</p>
           <h2>Contact Me</h2>
           <p className="text-lg">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. In, odit.
+            Feel Free to contact me.
           </p>
         </div>
-        <form className="contact--form--container">
+        {/* <form className="contact--form--container">
           <div className="container">
-            <label htmlFor="first-name" className="contact--label">
+            <label htmlFor="first-name" className="contact--label">   
+  
               <span className="text-md">First Name</span>
               <input
                 type="text"
@@ -55,9 +56,9 @@ export default function ContactMe() {
             <span className="text-md">Choose a topic</span>
             <select id="choose-topic" className="contact--input text-md">
               <option>Select One...</option>
-              <option>Item 1</option>
-              <option>Item 2</option>
-              <option>Item 3</option>
+              <option>Intern or Traineeship</option>
+              <option>Job</option>
+              <option>Freelancing Projects</option>
             </select>
           </label>
           <label htmlFor="message" className="contact--label">
@@ -76,7 +77,13 @@ export default function ContactMe() {
           <div>
             <button className="btn btn-primary contact--form--btn">Submit</button>
           </div>
-        </form>
+        </form> */}
+
+                  {/* This is a HTML label element. It provides a usability improvement for mouse users, because if the user clicks on the text within 
+            the label element, it toggles the control the label is associated with.  The htmlFor attribute establishes a relationship between this
+             label and another element. The first-name value should match the id of another element, which is the element that the label is labeling.*/}
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfrgiZzOzt2PozXQ8i_kAn08wiy9ll1GcNdZHCtxJLl4O4F6g/viewform?embedded=true" width="800" height="800" frameBorder="0" marginHeight="0" marginWidth="0">Loading…</iframe>
       </section>
     );
   }
+
