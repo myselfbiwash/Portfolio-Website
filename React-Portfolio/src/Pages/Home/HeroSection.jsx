@@ -10,13 +10,9 @@ export default function HeroSection() {
               Developer
             </h1>
             <p className="hero--section-description">
-            I'm Biwash Budhathoki, a recent Computer Engineering graduate with a passion for web development.
-Currently, I'm focused on learning frontend development, particularly JavaScript and its framework,
-ReactJS. I'm also delving into backend development using Node.js and Express to streamline the
-development process. 
-              <br /> I'm actively seeking internships or traineeships to further my journey toward
-becoming a frontend developer.
-            </p>
+            Hello there! I'm Biwash Budhathoki, a dedicated frontend developer on a mission to create captivating online experiences. 
+            With expertise in HTML, CSS, JavaScript, and React.js, I specialize in bringing ideas to life through smooth and responsive web design.
+            <br /><span style={{color: 'lightSeaGreen'}}>Let's collaborate and bring your vision to the digital world!</span>            </p>
           </div>
           <button className="btn btn-primary">Get In Touch</button>
         </div>
