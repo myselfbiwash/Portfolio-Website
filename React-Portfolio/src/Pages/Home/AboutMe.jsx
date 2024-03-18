@@ -15,7 +15,7 @@ ReactJS. I'm also delving into backend development using Node.js and Express to 
 development process. 
             </p>
             <p className="hero--section-description">
-            . I'm actively seeking internships or traineeships to further my journey toward
+            I'm actively seeking internships or traineeships to further my journey toward
 becoming a frontend developer.
             </p>
           </div>
